@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/valerio-figueira#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&langs_count=4" height="180"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&include_all_commits=true" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&langs_count=4" height="160"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&include_all_commits=true" height="160" />
   </a>
 </div>
-
-![Snake animation](https://github.com/valerio-figueira/valerio-figueira/blob/output/github-contribution-grid-snake.svg)
