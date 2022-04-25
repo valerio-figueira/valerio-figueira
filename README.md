@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 <div align="center">
   <a href="https://open.spotify.com/user/22a3hpjwzu3ngitnzmq5opslq">
-    <img src="https://open.spotify.com/user/22a3hpjwzu3ngitnzmq5opslq.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify"/>
+    <img src="https://open.spotify.com/user/22a3hpjwzu3ngitnzmq5opslq.vercel.app/api/spotify?background_color=181413&border_color=ffffff)"/>
   </a>
 </div>
 
