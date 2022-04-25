@@ -40,7 +40,12 @@ Here are some ideas to get you started:
   
 </section>
 
-
+<div align="center">
+  <a href="https://github.com/valerio-figueira#user-activity-overview">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&langs_count=4" height="170"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&include_all_commits=true" height="170" />
+  </a>
+</div>
 
 <!-- Spotify Now Playing Card https://github.com/novatorem/novatorem -->
 <div align="center">
