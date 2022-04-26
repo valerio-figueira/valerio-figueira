@@ -37,6 +37,9 @@ Here are some ideas to get you started:
     <a href="https://developer.oracle.com/">
       <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="40" height="40"/>
     </a>
+    <a href="https://www.mysql.com/">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
+    </a>
   
 </section>
 
