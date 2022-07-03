@@ -43,8 +43,7 @@ Here are some ideas to get you started:
     <a href="https://www.mysql.com/">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
     </a>
-  
-</section>
+  </div>
 
 <div align="center">
   <a href="https://github.com/valerio-figueira#user-activity-overview">
@@ -57,3 +56,10 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/22a3hpjwzu3ngitnzmq5opslq?si=7195f9cda1a44188">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=22a3hpjwzu3ngitnzmq5opslq&cover_image=true&theme=novatorem&bar_color=0080c0&bar_color_cover=false"</a>
 </div>
+
+  <div>
+  <h2>Some projects:</h2>
+  <div><a href="https://github.com/valerio-figueira/lapis-lazuli-page" rel="next" target="_blank">Lapis Lazuli Page</a></div>
+  <div><a href="https://valerio-figueira.github.io/black-onyx-page/" rel="next" target="_blank">Black Onyx Page</a></div>
+  <div><a href="https://valerio-figueira.github.io/turmalina-page/" rel="next" target="_blank">Turmalina Page</a></div>  
+  </div>
