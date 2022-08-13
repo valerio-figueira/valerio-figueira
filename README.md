@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
   <div>
   <h2>Some projects mine:</h2>
-  <div><a href="https://valerio-figueira.github.io/IPMA/ rel="next" target="_blank">IPMA</a></div> 
+  <div><a href="https://valerio-figueira.github.io/IPMA/" rel="next" target="_blank">IPMA</a></div> 
   <div><a href="https://valerio-figueira.github.io/jasper-project/" rel="next" target="_blank">Jasper Project</a></div> 
   <div><a href="https://valerio-figueira.github.io/ruby-project/" rel="next" target="_blank">Ruby Project</a></div>
   <div><a href="https://valerio-figueira.github.io/black-onyx-page/" rel="next" target="_blank">Black Onyx Page</a></div>
@@ -67,5 +67,5 @@ Here are some ideas to get you started:
   </div>
   <div>
   <h2>My Portfolio:</h2>
-  <div><a href="https://valerio-figueira.github.io/portfolio/ rel="next" target="_blank">Portfolio</a></div>
+  <div><a href="https://valerio-figueira.github.io/portfolio/" rel="next" target="_blank">Portfolio</a></div>
   </div>
