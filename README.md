@@ -56,15 +56,18 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/22a3hpjwzu3ngitnzmq5opslq?si=7195f9cda1a44188">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=22a3hpjwzu3ngitnzmq5opslq&cover_image=true&theme=novatorem&bar_color=0080c0&bar_color_cover=false"</a>
 </div>
+
   <div>
   <h2>Some projects mine:</h2>
   <div><a href="https://valerio-figueira.github.io/IPMA/" rel="next" target="_blank">IPMA</a></div> 
+  <div><a href="https://valerio-figueira.github.io/singlepage-subscription/" rel="next" target="_blank">Subscription Page</a></div> 
   <div><a href="https://valerio-figueira.github.io/jasper-project/" rel="next" target="_blank">Jasper Project</a></div> 
   <div><a href="https://valerio-figueira.github.io/ruby-project/" rel="next" target="_blank">Ruby Project</a></div>
   <div><a href="https://valerio-figueira.github.io/black-onyx-page/" rel="next" target="_blank">Black Onyx Page</a></div>
   <div><a href="https://valerio-figueira.github.io/lapis-lazuli-page/" rel="next" target="_blank">Lapis Lazuli Page</a></div>  
   <div><a href="https://valerio-figueira.github.io/turmalina-page/" rel="next" target="_blank">Turmalina Page</a></div> 
   </div>
+  
   <div>
   <h2>My Portfolio:</h2>
   <div><a href="https://valerio-figueira.github.io/portfolio/" rel="next" target="_blank">Portfolio</a></div>
