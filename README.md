@@ -59,7 +59,9 @@ Here are some ideas to get you started:
 
   <div>
   <h2>Some projects mine:</h2>
-  <div><a href="https://valerio-figueira.github.io/IPMA/" rel="next" target="_blank">IPMA</a></div> 
+  <div><a href="https://valerio-figueira.github.io/IPMA/" rel="next" target="_blank">IPMA</a></div>
+  <div><a href="https://valerio-figueira.github.io/ecommerce/" rel="next" target="_blank">Ecommerce</a></div>
+  <div><a href="https://valerio-figueira.github.io/portfolium_novum/" rel="next" target="_blank">Portfolium Novum</a></div> 
   <div><a href="https://valerio-figueira.github.io/singlepage-subscription/" rel="next" target="_blank">Subscription Page</a></div> 
   <div><a href="https://valerio-figueira.github.io/jasper-project/" rel="next" target="_blank">Jasper Project</a></div> 
   <div><a href="https://valerio-figueira.github.io/ruby-project/" rel="next" target="_blank">Ruby Project</a></div>
