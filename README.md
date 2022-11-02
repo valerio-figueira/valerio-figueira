@@ -37,11 +37,17 @@ Here are some ideas to get you started:
     <a href="https://www.javascript.com/">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
     </a>
+    <a href="https://nodejs.org/en/">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
+    </a>
     <a href="https://developer.oracle.com/">
       <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="40" height="40"/>
     </a>
   </div>
 
@@ -60,14 +66,10 @@ Here are some ideas to get you started:
   <div>
   <h2>Some projects mine:</h2>
   <div><a href="https://valerio-figueira.github.io/IPMA/" rel="next" target="_blank">IPMA</a></div>
+  <div><a href="https://valerio-figueira.github.io/ecommerce-js/" rel="next" target="_blank">Ecommerce - JS Vanilla</a></div>
   <div><a href="https://valerio-figueira.github.io/ecommerce/" rel="next" target="_blank">Ecommerce</a></div>
   <div><a href="https://valerio-figueira.github.io/portfolium_novum/" rel="next" target="_blank">Portfolium Novum</a></div> 
-  <div><a href="https://valerio-figueira.github.io/singlepage-subscription/" rel="next" target="_blank">Subscription Page</a></div> 
-  <div><a href="https://valerio-figueira.github.io/jasper-project/" rel="next" target="_blank">Jasper Project</a></div> 
-  <div><a href="https://valerio-figueira.github.io/ruby-project/" rel="next" target="_blank">Ruby Project</a></div>
-  <div><a href="https://valerio-figueira.github.io/black-onyx-page/" rel="next" target="_blank">Black Onyx Page</a></div>
-  <div><a href="https://valerio-figueira.github.io/lapis-lazuli-page/" rel="next" target="_blank">Lapis Lazuli Page</a></div>  
-  <div><a href="https://valerio-figueira.github.io/turmalina-page/" rel="next" target="_blank">Turmalina Page</a></div> 
+  <div><a href="https://valerio-figueira.github.io/harrypotter-characters/" rel="next" target="_blank">Harry Potter Gallery - API</a></div>
   </div>
   
   <div>
