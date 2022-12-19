@@ -68,10 +68,11 @@ Here are some ideas to get you started:
   <div><a href="https://valerio-figueira.github.io/IPMA/" rel="next" target="_blank">IPMA</a></div>
   <div><a href="https://valerio-figueira.github.io/ecommerce-js/" rel="next" target="_blank">Ecommerce - JS Vanilla</a></div>
   <div><a href="https://valerio-figueira.github.io/ecommerce/" rel="next" target="_blank">Ecommerce</a></div>
-  <div><a href="https://valerio-figueira.github.io/portfolium_novum/" rel="next" target="_blank">Portfolium Novum</a></div> 
-  <div><a href="https://valerio-figueira.github.io/harrypotter-characters/" rel="next" target="_blank">Harry Potter Gallery - API</a></div>
+  <div><a href="https://figuratus.netlify.app/" rel="next" target="_blank">Blog made with React</a></div> 
+  <div><a href="https://aedifico.netlify.app/" rel="next" target="_blank">API Made with Nodejs (Express)</a></div>
+  <div><a href="https://valerio-figueira.github.io/base-apparel-page/" rel="next" target="_blank">Landing Page</a></div>
   </div>
-  
+ 
   <div>
   <h2>My Portfolio:</h2>
   <div><a href="https://valerio-figueira.github.io/portfolio/" rel="next" target="_blank">Portfolio</a></div>
