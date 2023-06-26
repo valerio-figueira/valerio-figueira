@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 
 - 🧙‍♂️ Tria sunt studientibus necessaria: natura, exercitium et disciplina. - Hugo de São Vitor
-- 🌱 I’m currently learning Typescript, React, HTML5 & CSS3, NodeJS, Linux, ☕Java
+- 🌱 I’m currently learning Typescript, Ruby, NodeJS, React, Linux
 - 📫 How to reach me: j.valerio.figueira@gmail.com
 - 🌍 From Brazil
 
 
   <div>
+    <a href="https://www.ruby-lang.org/en/">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" width="40" height="40"/>
+    </a>
     <a href="https://www.linux.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
@@ -64,8 +67,9 @@ Here are some ideas to get you started:
 </div>
 
   <div>
-  <h2>Some projects mine:</h2>
-  <div><a href="https://valerio-figueira.github.io/IPMA/" rel="next" target="_blank">IPMA</a></div>
+  <h2>Some projects:</h2>
+  <div><a href="https://groupbrm.com.br/" rel="next" target="_blank">GROUP BRM</a></div>
+  <div><a href="https://ipmamonte.mg.gov.br/" rel="next" target="_blank">IPMA</a></div>
   <div><a href="https://valerio-figueira.github.io/ecommerce-js/" rel="next" target="_blank">Ecommerce - JS Vanilla</a></div>
   <div><a href="https://valerio-figueira.github.io/ecommerce/" rel="next" target="_blank">Ecommerce</a></div>
   <div><a href="https://figuratus.netlify.app/" rel="next" target="_blank">Blog made with React</a></div> 
