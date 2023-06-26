@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 
 
   <div>
-    <a href="https://www.ruby-lang.org/en/">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" width="40" height="40"/>
-    </a>
     <a href="https://www.linux.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
@@ -42,6 +39,9 @@ Here are some ideas to get you started:
     </a>
     <a href="https://nodejs.org/en/">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://www.ruby-lang.org/en/">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" width="40" height="40"/>
     </a>
     <a href="https://developer.oracle.com/">
       <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="40" height="40"/>
