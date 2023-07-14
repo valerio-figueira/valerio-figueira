@@ -54,10 +54,6 @@ Here are some ideas to get you started:
     </a>
   </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/22a3hpjwzu3ngitnzmq5opslq?si=7195f9cda1a44188">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=22a3hpjwzu3ngitnzmq5opslq&cover_image=true&theme=novatorem&bar_color=0080c0&bar_color_cover=false"</a>
-</div>
 
   <div>
   <h2>Some projects:</h2>
