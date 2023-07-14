@@ -55,13 +55,6 @@ Here are some ideas to get you started:
   </div>
 
 <div align="center">
-  <a href="https://github.com/valerio-figueira#user-activity-overview">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&langs_count=4" height="170"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=valerio-figueira&show_icons=true&theme=yeblu&hide_border=true&include_all_commits=true" height="170" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://open.spotify.com/user/22a3hpjwzu3ngitnzmq5opslq?si=7195f9cda1a44188">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=22a3hpjwzu3ngitnzmq5opslq&cover_image=true&theme=novatorem&bar_color=0080c0&bar_color_cover=false"</a>
 </div>
