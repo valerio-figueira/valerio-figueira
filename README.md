@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🧙‍♂️ Tria sunt studientibus necessaria: natura, exercitium et disciplina. - Hugo de São Vitor
-- 🌱 I’m currently learning Typescript, Ruby, NodeJS, React, Linux
 - 📫 How to reach me: j.valerio.figueira@gmail.com
 - 🌍 From Brazil
 
