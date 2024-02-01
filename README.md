@@ -58,14 +58,4 @@ Here are some ideas to get you started:
   <h2>Some projects:</h2>
   <div><a href="https://groupbrm.com.br/" rel="next" target="_blank">GROUP BRM Website</a></div>
   <div><a href="https://ipmamonte.mg.gov.br/" rel="next" target="_blank">IPMA Website</a></div>
-  <div><a href="https://valerio-figueira.github.io/ecommerce-js/" rel="next" target="_blank">Ecommerce - JS Vanilla</a></div>
-  <div><a href="https://valerio-figueira.github.io/ecommerce/" rel="next" target="_blank">Ecommerce</a></div>
-  <div><a href="https://figuratus.netlify.app/" rel="next" target="_blank">Blog made with React</a></div> 
-  <div><a href="https://aedifico.netlify.app/" rel="next" target="_blank">API Made with Nodejs (Express)</a></div>
-  <div><a href="https://valerio-figueira.github.io/base-apparel-page/" rel="next" target="_blank">Landing Page</a></div>
-  </div>
- 
-  <div>
-  <h2>My Portfolio:</h2>
-  <div><a href="https://valerio-figueira.github.io/portfolio/" rel="next" target="_blank">Portfolio</a></div>
   </div>
