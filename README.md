@@ -33,6 +33,9 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/css/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/>
+    </a>
     <a href="https://www.javascript.com/">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
     </a>
