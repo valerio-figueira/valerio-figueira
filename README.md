@@ -55,10 +55,3 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="40" height="40"/>
     </a>
   </div>
-
-
-  <div>
-  <h2>Some projects:</h2>
-  <div><a href="https://groupbrm.com.br/" rel="next" target="_blank">GROUP BRM Website</a></div>
-  <div><a href="https://ipmamonte.mg.gov.br/" rel="next" target="_blank">IPMA Website</a></div>
-  </div>
