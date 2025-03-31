@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧙‍♂️ Tria sunt studientibus necessaria: natura, exercitium et disciplina. - Hugo de São Vitor
 - 📫 How to reach me: j.valerio.figueira@gmail.com
 - 🌍 From Brazil
